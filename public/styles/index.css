@@ -101,7 +101,7 @@ h3{
 	font-style: normal;
 	font-size: 60px;
 	color: var(--main-fonts-color);
-	text-shadow: 10px 10px 10px var(--main-decor-color);
+	text-shadow: 0px 0px 10px var(--main-decor-color);
 }
 
 #projects{
